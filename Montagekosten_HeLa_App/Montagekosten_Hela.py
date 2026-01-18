@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # Logo anzeigen (in der Sidebar oben)
-logo = Image.open("Logo_Hela_final-2.jpg")
+logo = Image.open("Montagekosten_Hela_App/Logo_Hela_final-2.jpg")
 st.sidebar.image(logo, width=200)
 
 
