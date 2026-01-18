@@ -1,9 +1,5 @@
 import streamlit as st
-from PIL import Image
 
-# Logo anzeigen (in der Sidebar oben)
-logo = Image.open("Logo_Hela_final-2.jpg")
-st.sidebar.image(logo, width=200)
 
 
 import pandas as pd
